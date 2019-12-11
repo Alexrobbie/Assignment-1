@@ -1,0 +1,53 @@
+style
+.box-set {
+   position: relative;
+  height: 100px;
+  width: 1000px;
+  background: darkgray;
+  
+}
+.background
+{
+  position: absolute;
+  height: 100px;
+  width: 1500px;
+  background: darkgray;
+  top: 0%;
+}
+.box{
+  position: absolute;
+   width: 66px;
+   height: 150px;
+   top: 9%
+   ;
+   
+ }
+.name {
+  
+  top: 7%;
+  width: 210px;
+  height: 40px;
+  background: rgba(150, 95, 95, 0.644);
+  font-size: 155%;
+}
+img {
+    float: left;
+  }
+  .contact {
+right: 0%;
+  }
+
+  
+  .portfolio {
+    right: 8%;
+  }
+  
+  .about {
+    right: 17%;
+  }
+
+  
+A 
+  {text-decoration: none;
+
+}
